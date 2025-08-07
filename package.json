@@ -1,0 +1,16 @@
+{
+  "name": "programming101",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --no-warnings --loader ts-node/esm calculator/index.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.9",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  }
+}
+
+

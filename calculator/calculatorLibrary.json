@@ -1,0 +1,31 @@
+{
+  "appName": "Ichwan's Calculator",
+  "version": "1.0.0",
+  "author": "Ichwan",
+  "operations": [
+    {
+      "name": "Addition",
+      "symbol": "+",
+      "key": "add",
+      "description": "Adds two numbers"
+    },
+    {
+      "name": "Subtraction",
+      "symbol": "-",
+      "key": "subtract",
+      "description": "Subtracts second number from first"
+    },
+    {
+      "name": "Multiplication",
+      "symbol": "*",
+      "key": "multiply",
+      "description": "Multiplies two numbers"
+    },
+    {
+      "name": "Division",
+      "symbol": "/",
+      "key": "divide",
+      "description": "Divides first number by second"
+    }
+  ]
+}
